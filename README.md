@@ -1,4 +1,4 @@
-Author - Mridul Mahajan   
+﻿Author - Mridul Mahajan   
 Contributors - Gaganjot Kaur Shan, Shray Bhardwaj, Pulkit Rastogi   
 This github repository is created for sole purpose of learning.  
 Find list of programs below.      
@@ -15,6 +15,9 @@ Completed programs 6-10
 March 29th 2020:   
 Completed programs 11-15   
    
+April 1st 2020:   
+Completed programs 16-20   
+   
 #Programs   
 1. Add single line and multiline comments in java
 2. Write a program to print "Mridul Mahajan is a legend" on screen
@@ -30,5 +33,9 @@ Completed programs 11-15
 12.Write a program to print multiplication table of a number upto 10 (use for loop).
 13 Write a program to print sum of digits of a given number (use while loop).
 14.Write a program to demonstrate how do..while loop is different from for and while loops.
-15.Write a program to print multiplication table of 2,3 and 4 (upto 10 multiplications) in a single program (use nested for loop).
-  
+15.Write a program to print multiplication table of 2,3 and 4 (upto 10 multiplications) in a single program (use nested for loop).   
+16.Write a program to demonstrate use of 'continue' and 'break' statements in JAVA.   
+17.Write a program showing use of label with 'continue' and 'break'.   
+18.Write a program to demonstrate use of 'switch' statement in JAVA.   
+19.Write a program to show how type conversion is done in JAVA.   
+20.Write a program to demontrate use of 'final' keyword in java.   
