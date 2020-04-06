@@ -55,3 +55,41 @@ Completed programs 26-30
 28. Write a program showing method overloading in JAVA.
 29. Write a program showing method overriding in JAVA.
 30. Write a program to demonstrate use of 'abstract' keyword in JAVA.
+31. Write a program to show how we can request JVM for garbage collection manually?
+32. Write a program to demonstrate the scope of access specifiers in JAVA.
+33. Write a program to show use of interface in JAVA.
+34. Create a package called com.automobile. Define an abstract class called Vehicle. 
+   Vehicle class has the following abstract methods: 
+   public String getModelName()
+   public String getRegistrationNumber() 
+   public String getOwnerName() 
+
+   Create twowheeler subpackage under automobile package
+   Hero  class extends  automobile.vehicle class with the following methods
+   public int getSpeed() 
+   – returns the current speed of the vehicle.
+   public void radio() 
+   – provides facility to control the radio device 
+
+   Honda class extends com.automobile.vehicle class with the following methods
+   public int getSpeed()
+   – Returns the current speed of the vehicle.
+   public void cdplayer() 
+   – provides facility to control the cd player device which is available in the car.
+
+   Create a test class to test the methods available in all these child class.
+
+35. Add the following ideas to the previous hands on: 
+   Create FourWheeler subpackage under automobile package
+   Logan class extends com.automobile.Vehicle class
+   public int speed()
+   – Returns the current speed of the vehicle.
+   public int gps() 
+   – provides facility to control the gps device 
+
+   Ford class extends  com.automobile.Vehicle class
+   public int speed()
+   – Returns the current speed of the vehicle.
+   public int tempControl() 
+   – provides facility to control the air conditioning device which is available in the car
+   Create objects of the relevant classes and test the various functionalities of the class.
